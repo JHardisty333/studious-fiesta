@@ -11,6 +11,8 @@ The following animation demonstrates the application functionality:
 
 ## Website link 
 
+https://github.com/JHardisty333/studious-fiesta
+
 
 ## Built With
 *HTML *CSS *JS
