@@ -2,7 +2,7 @@
 ## Week 4 Challenge
 
 ## Scope
-
+A short quiz to test your basic coding knowledge with a timer that penalizes wrong answers. Try to get the highest score!
 
 ## Mockup 
 The following animation demonstrates the application functionality:
