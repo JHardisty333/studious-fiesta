@@ -7,7 +7,7 @@ A short quiz to test your basic coding knowledge with a timer that penalizes wro
 ## Mockup 
 The following animation demonstrates the application functionality:
 
-![code quiz](./Assets/04-web-apis-homework-demo.gif)
+![04-web-apis-homework-demo](https://user-images.githubusercontent.com/82549162/132150028-b7a91ffc-f326-400c-847b-8ada2d7cb1ca.gif)
 
 ## Website link 
 
